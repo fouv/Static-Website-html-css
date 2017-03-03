@@ -41,64 +41,13 @@
       <div class="codrops-top clearfix">
       </div>
       <div>
+
           <h1 id="anchor_concept">Concept</h1>
           <H2 class="text-center">RESTAURANTS ATYPIQUES : UN POINT DE VUE UNIQUE <br>SUR LA RESTAURATION</H2>
           Le concept de franchise de restaurants atypiques a été créé par Julien Boyer et Damien Armenté, deux passionnés de gastronomie hors pair.
              Le premièr restaurant "montgolfière" est ainsi née à Lyon en 2015. Le succès étant au rendez-vous, six autres restaurants ont vu le jour en moins d'un an : la Loupe, Fontainebleau, Orléans,
               Bordeaux, Toulouse et Marseille...
-
-
-      </div>
-      <div class="wrapper">
-        <ul class="stage clearfix">
-
-          <li class="scene">
-            <div class="movie" onclick="return true">
-              <div class="poster"></div>
-              <div class="info">
-                <header>
-                  <h1>INATTENDU</h1>
-                                </header>
-              <p>
-                Que diriez-vous de vous envoler en montgolfière pour manger des plats soigneusement cuisinés par une chef en survolant les plus beaux
-                    paysages en Rhone-Alpes ?
-                </p>
-              </div>
-            </div>
-          </li>
-
-          <li class="scene">
-            <div class="movie" onclick="return true">
-              <div class="poster"></div>
-              <div class="info">
-                <header>
-                  <h1>FUN</h1>
-                  </header>
-                <p>
-                Déjeuner dans le poulailler d'une ferme décalée, s'installer à la table préférée de Molière, se délecter de plaisirs iodés dans une cabane à huîtres  … ça vous dit ? Découvrez tous les restaurants originaux dans notre page restaurants..
-
-                </p>
-              </div>
-            </div>
-          </li>
-
-          <li class="scene">
-            <div class="movie" onclick="return true">
-              <div class="poster"></div>
-              <div class="info">
-                <header>
-                  <h1>BEST OF QUALITE PRIX</h1>
-                                  </header>
-                <p>
-                    Que vous soyez bistrot, branché ou tradi, les Wild Restaurants vous garantissent des tables aux menus et additions les plus séduisants. Smart appétit !
-                </p>
-              </div>
-            </div>
-          </li>
-
-        </ul>
-      </div><!-- /wrapper -->
-    </div><!-- /home concept -->
+   </div><!-- /home concept -->
     <!--Presentation -->
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
