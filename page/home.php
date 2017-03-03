@@ -41,7 +41,7 @@
                 <div class="container">
                     <h1 >Qui sommes-nous ?</h1>
 
-             <img src="images/julien.png" class="img-circle" alt="Cinque Terre" width="128" height="128">
+             <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
 
                 <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
                 être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
@@ -51,7 +51,7 @@
                 tendent à reproduire le même extrait sans fin, ce qui fait de lipsum.com
                 le seul vrai générateur de Lorem Ipsum. Iil utilise un dictionnaire de plus de
                 200 mots latins.</p>
-             <img src="images/damien-armente-profil.jpg" class="img-circle" alt="Cinque Terre" width="128" height="128">_
+             <img src="images/damien-armente-profil.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
 
                 <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
                     être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
