@@ -42,6 +42,9 @@
       </div>
       <div>
 <<<<<<< HEAD
+        <h2 id="anchor_concept">Concept</h2>
+=======
+<<<<<<< HEAD
         <h1>Concept</h1>
           <H2 class="text-center">FRANCHISES ATYPIQUES : UN POINT DE VUE UNIQUE <br>SUR LA RESTAURATION</H2>
           <p>Le concept de franchise de restaurants atypiques a été créé par Julien Boyer et Damien Armenté, deux passionnés de gastronomie hors pair.
@@ -51,6 +54,7 @@
 =======
         <h1 id="anchor_concept">Concept</h1>
 >>>>>>> 2d64c3b699ee657bf75813c7b0ecdccc6d11fb68
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
       </div>
       <div class="wrapper">
         <ul class="stage clearfix">
@@ -60,8 +64,16 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
+<<<<<<< HEAD
+                  <h2>UNEXPECTED</h2>
+                  <span class="year">1946</span>
+                  <span class="rating">PG</span>
+                  <span class="duration">130 minutes</span>
+                </header>
+=======
                   <h1>INATTENDU</h1>
                                 </header>
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
                 <p>
                 Que diriez-vous de vous envoler en montgolfière pour manger des plats soigneusement cuisinés par une chef en survolant les plus beaux
                     paysages en Rhone-Alpes ?
@@ -75,8 +87,16 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
+<<<<<<< HEAD
+                  <h2>FUN</h2>
+                  <span class="year">1951</span>
+                  <span class="rating">NR</span>
+                  <span class="duration">83 minutes</span>
+                </header>
+=======
                   <h1>FUN</h1>
                   </header>
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
                 <p>
                 Déjeuner dans le poulailler d'une ferme décalée, s'installer à la table préférée de Molière, se délecter de plaisirs iodés dans une cabane à huîtres  … ça vous dit ? Découvrez tous les restaurants originaux dans notre page restaurants..
 
@@ -90,8 +110,16 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
+<<<<<<< HEAD
+                  <h2>CHEAP</h2>
+                  <span class="year">1925</span>
+                  <span class="rating">NR</span>
+                  <span class="duration">95 minutes</span>
+                </header>
+=======
                   <h1>BEST OF QUALITE PRIX</h1>
                                   </header>
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
                 <p>
                     Que vous soyez bistrot, branché ou tradi, les Wild Restaurants vous garantissent des tables aux menus et additions les plus séduisants. Smart appétit !
                 </p>
