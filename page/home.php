@@ -41,7 +41,20 @@
       <div class="codrops-top clearfix">
       </div>
       <div>
+<<<<<<< HEAD
         <h2 id="anchor_concept">Concept</h2>
+=======
+<<<<<<< HEAD
+        <h1>Concept</h1>
+          <H2 class="text-center">FRANCHISES ATYPIQUES : UN POINT DE VUE UNIQUE <br>SUR LA RESTAURATION</H2>
+          <p>Le concept de franchise de restaurants atypiques a été créé par Julien Boyer et Damien Armenté, deux passionnés de gastronomie hors pair.
+             Le premièr restaurant "montgolfière" est ainsi née à Lyon en 2015. Le succès étant au rendez-vous, six autres restaurants ont vu le jour en moins d'un an : la Loupe, Fontainebleau, Orléans,
+              Bordeaux, Toulouse et Marseille...
+
+=======
+        <h1 id="anchor_concept">Concept</h1>
+>>>>>>> 2d64c3b699ee657bf75813c7b0ecdccc6d11fb68
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
       </div>
       <div class="wrapper">
         <ul class="stage clearfix">
@@ -51,13 +64,19 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
+<<<<<<< HEAD
                   <h2>UNEXPECTED</h2>
                   <span class="year">1946</span>
                   <span class="rating">PG</span>
                   <span class="duration">130 minutes</span>
                 </header>
+=======
+                  <h1>INATTENDU</h1>
+                                </header>
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
                 <p>
-                  In Bedford Falls, New York on Christmas Eve, George Bailey is deeply troubled. Prayers for his well-being from friends and family reach Heaven. Clarence Odbody, Angel Second Class, is assigned to visit Earth to save George, thereby earning his wings. Franklin and Joseph, the head angels, review George's life with Clarence.
+                Que diriez-vous de vous envoler en montgolfière pour manger des plats soigneusement cuisinés par une chef en survolant les plus beaux
+                    paysages en Rhone-Alpes ?
                 </p>
               </div>
             </div>
@@ -68,13 +87,19 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
+<<<<<<< HEAD
                   <h2>FUN</h2>
                   <span class="year">1951</span>
                   <span class="rating">NR</span>
                   <span class="duration">83 minutes</span>
                 </header>
+=======
+                  <h1>FUN</h1>
+                  </header>
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
                 <p>
-                  A cattle baron takes in an orphaned boy and raises him, causing his own son to resent the boy. As they get older the resentment festers into hatred, and eventually the real son frames his stepbrother for fathering an illegitimate child that is actually his, seeing it as an opportunity to get his half-brother out of the way so he can have his father's empire all to himself.
+                Déjeuner dans le poulailler d'une ferme décalée, s'installer à la table préférée de Molière, se délecter de plaisirs iodés dans une cabane à huîtres  … ça vous dit ? Découvrez tous les restaurants originaux dans notre page restaurants..
+
                 </p>
               </div>
             </div>
@@ -85,13 +110,18 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
+<<<<<<< HEAD
                   <h2>CHEAP</h2>
                   <span class="year">1925</span>
                   <span class="rating">NR</span>
                   <span class="duration">95 minutes</span>
                 </header>
+=======
+                  <h1>BEST OF QUALITE PRIX</h1>
+                                  </header>
+>>>>>>> 52e546cc191af7ccb9f4eedd6bbd831b297d21d0
                 <p>
-                  The Tramp travels to the Yukon to take part in the Klondike Gold Rush. He gets mixed up with some burly characters and falls in love with the beautiful Georgia. He tries to win her heart with his singular charm.
+                    Que vous soyez bistrot, branché ou tradi, les Wild Restaurants vous garantissent des tables aux menus et additions les plus séduisants. Smart appétit !
                 </p>
               </div>
             </div>
@@ -105,9 +135,13 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="jumbotron" >
                 <div class="container">
+<<<<<<< HEAD
+                    <h1>Qui sommes-nous ?</h1>
+=======
                     <h1 id="anchor_who">Qui sommes-nous ?</h1>
+>>>>>>> 2d64c3b699ee657bf75813c7b0ecdccc6d11fb68
 
-                    <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
+                    <img src="images/damien_armente.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
 
                     <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
                         être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
@@ -117,7 +151,7 @@
                         tendent à reproduire le même extrait sans fin, ce qui fait de lipsum.com
                         le seul vrai générateur de Lorem Ipsum. Iil utilise un dictionnaire de plus de
                         200 mots latins.</p>
-                    <img src="images/damien-armente-profil.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
+                    <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
 
                     <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
                         être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
