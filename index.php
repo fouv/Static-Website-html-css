@@ -26,6 +26,8 @@ $file = $page . '.php';
         }
         ?>
     </title>
+
+
 </head>
 <body>
 <header>
@@ -34,6 +36,7 @@ $file = $page . '.php';
 <main>
     <div class="container-fluid" ></div>
     <?php include "page/home.php"; ?>
+    <?php include "page/contact.php"; ?>
     </div>
 </main>
 <footer>

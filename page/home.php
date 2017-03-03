@@ -41,7 +41,7 @@
       <div class="codrops-top clearfix">
       </div>
       <div>
-        <h1 id="anchor_concept">Concept</h1>
+        <h2 id="anchor_concept">Concept</h2>
       </div>
       <div class="wrapper">
         <ul class="stage clearfix">
@@ -51,7 +51,7 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
-                  <h1>UNEXPECTED</h1>
+                  <h2>UNEXPECTED</h2>
                   <span class="year">1946</span>
                   <span class="rating">PG</span>
                   <span class="duration">130 minutes</span>
@@ -68,7 +68,7 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
-                  <h1>FUN</h1>
+                  <h2>FUN</h2>
                   <span class="year">1951</span>
                   <span class="rating">NR</span>
                   <span class="duration">83 minutes</span>
@@ -85,7 +85,7 @@
               <div class="poster"></div>
               <div class="info">
                 <header>
-                  <h1>CHEAP</h1>
+                  <h2>CHEAP</h2>
                   <span class="year">1925</span>
                   <span class="rating">NR</span>
                   <span class="duration">95 minutes</span>
