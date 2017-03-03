@@ -41,12 +41,16 @@
       <div class="codrops-top clearfix">
       </div>
       <div>
+<<<<<<< HEAD
         <h1>Concept</h1>
           <H2 class="text-center">FRANCHISES ATYPIQUES : UN POINT DE VUE UNIQUE <br>SUR LA RESTAURATION</H2>
           <p>Le concept de franchise de restaurants atypiques a été créé par Julien Boyer et Damien Armenté, deux passionnés de gastronomie hors pair.
              Le premièr restaurant "montgolfière" est ainsi née à Lyon en 2015. Le succès étant au rendez-vous, six autres restaurants ont vu le jour en moins d'un an : la Loupe, Fontainebleau, Orléans,
               Bordeaux, Toulouse et Marseille...
 
+=======
+        <h1 id="anchor_concept">Concept</h1>
+>>>>>>> 2d64c3b699ee657bf75813c7b0ecdccc6d11fb68
       </div>
       <div class="wrapper">
         <ul class="stage clearfix">
@@ -103,7 +107,11 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="jumbotron" >
                 <div class="container">
+<<<<<<< HEAD
                     <h1>Qui sommes-nous ?</h1>
+=======
+                    <h1 id="anchor_who">Qui sommes-nous ?</h1>
+>>>>>>> 2d64c3b699ee657bf75813c7b0ecdccc6d11fb68
 
                     <img src="images/damien_armente.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
 
