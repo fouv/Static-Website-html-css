@@ -41,16 +41,13 @@
       <div class="codrops-top clearfix">
       </div>
       <div>
-<<<<<<< HEAD
-        <h1>Concept</h1>
-          <H2 class="text-center">FRANCHISES ATYPIQUES : UN POINT DE VUE UNIQUE <br>SUR LA RESTAURATION</H2>
-          <p>Le concept de franchise de restaurants atypiques a été créé par Julien Boyer et Damien Armenté, deux passionnés de gastronomie hors pair.
+          <h1 id="anchor_concept">Concept</h1>
+          <H2 class="text-center">RESTAURANTS ATYPIQUES : UN POINT DE VUE UNIQUE <br>SUR LA RESTAURATION</H2>
+          Le concept de franchise de restaurants atypiques a été créé par Julien Boyer et Damien Armenté, deux passionnés de gastronomie hors pair.
              Le premièr restaurant "montgolfière" est ainsi née à Lyon en 2015. Le succès étant au rendez-vous, six autres restaurants ont vu le jour en moins d'un an : la Loupe, Fontainebleau, Orléans,
               Bordeaux, Toulouse et Marseille...
 
-=======
-        <h1 id="anchor_concept">Concept</h1>
->>>>>>> 2d64c3b699ee657bf75813c7b0ecdccc6d11fb68
+
       </div>
       <div class="wrapper">
         <ul class="stage clearfix">
@@ -62,7 +59,7 @@
                 <header>
                   <h1>INATTENDU</h1>
                                 </header>
-                <p>
+              <p>
                 Que diriez-vous de vous envoler en montgolfière pour manger des plats soigneusement cuisinés par une chef en survolant les plus beaux
                     paysages en Rhone-Alpes ?
                 </p>
@@ -105,42 +102,27 @@
     <!--Presentation -->
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <div class="jumbotron" >
-                <div class="container">
-<<<<<<< HEAD
-                    <h1>Qui sommes-nous ?</h1>
-=======
-                    <h1 id="anchor_who">Qui sommes-nous ?</h1>
->>>>>>> 2d64c3b699ee657bf75813c7b0ecdccc6d11fb68
-
-                    <img src="images/damien_armente.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
-
-                    <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
-                        être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
-                        d'humour ou de mots aléatoires qui ne ressemblent pas une seconde à du texte standard.
-                        Si vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu'il n'y a rien
-                        d'embarrassant caché dans le texte. Tous les générateurs de Lorem Ipsum sur Internet
-                        tendent à reproduire le même extrait sans fin, ce qui fait de lipsum.com
-                        le seul vrai générateur de Lorem Ipsum. Iil utilise un dictionnaire de plus de
-                        200 mots latins.</p>
-                    <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
-
-                    <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
-                        être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
-                        d'humour ou de mots aléatoires qui ne ressemblent pas une seconde à du texte standard.
-                        Si vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu'il n'y a rien
-                        d'embarrassant caché dans le texte. Tous les générateurs de Lorem Ipsum sur Internet
-                        tendent à reproduire le même extrait sans fin, ce qui fait de lipsum.com
-                        le seul vrai générateur de Lorem Ipsum. Iil utilise un dictionnaire de plus de
-                        200 mots latins.</p>
-                </div>
-
-
-
-
+              <h1 id="anchor_who">Qui sommes-nous ?</h1>
+        </div>
+         <div class="row">
+             <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+                 <h2> Damien Armenté </h2>
+             </div>
+             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                 <img src="images/damien_armente.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
+             </div>
+         </div>
+        <div class="row">
+            <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+               <h2> Julien Boyen </h2>
+            </div>
+            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
             </div>
         </div>
-    </div>
-    <!-- end of presentation -->
 
+
+
+
+    <!-- end of presentation -->
     <title>Créer une carte API Google Maps Version 3</title>

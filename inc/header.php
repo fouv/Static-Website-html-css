@@ -10,10 +10,12 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
-            <li ><a href="#anchor_who">Qui sommes nous ?</a></li>
+            <li >LOGO</li>
             <li ><a href="#anchor_concept">Concept</a></li>
             <li ><a href="#anchor_restaurants">Restaurants</a></li>
-            <li ><a href="./page/contact.php">Contact</a></li>
+            <li ><a href="">Devenir franchisé</a></li>
+            <li ><a href="">Contact</a></li>
+
         </ul>
     </div>
 </nav>
