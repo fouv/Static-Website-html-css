@@ -4,15 +4,26 @@
 .navbar {
   margin-bottom: 0px;
   }
+.navbar-inverse .navbar-nav>li>a {
+  color : white;
+  font-size : 18px;
+}
 .carousel-inner{
   background-color: white;
   }
-
-  h1{
+label{
+  display: block;
+  width: 150px;
+  float: left;
+}
+.saut{
+  margin-bottom: 15px;
+}
+  h2{
   text-transform: uppercase;
   font-size: 30px;
   letter-spacing: 3px;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
   text-align: center;
   font-family: "Montserrat", sans-serif;
    }
@@ -23,14 +34,17 @@
     text-transform: uppercase;
     font-size: 25px;
     letter-spacing: 3px;
-    margin-bottom: 15px;
+    margin-bottom: 50px;
     text-align: center;
     font-family: "Montserrat", sans-serif;
   }
+
   p {
     font-size: 14px;
-    padding : 20px;
     text-align: justify;
+    padding : 30px;
+    margin-bottom: 70px;
+    margin-top: 50px;
   }
 
 body{
@@ -78,339 +92,4 @@ body{
   url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
   font-weight: normal;
   font-style: normal;
-}
-
-.clearfix:before,
-.clearfix:after {
-  content: " ";
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
-}
-
-.container > header,
-.codrops-top {
-  font-family: 'Lato', Arial, sans-serif;
-}
-
-.container > header {
-  margin: 0 auto;
-  padding: 2em;
-  text-align: center;
-  background: rgba(0,0,0,0.01);
-}
-
-.container > header h1 {
-  font-size: 2.625em;
-  line-height: 1.3;
-  margin: 0;
-  font-weight: 300;
-}
-
-.container > header span {
-  display: block;
-  font-size: 60%;
-  opacity: 0.7;
-  padding: 0 0 0.6em 0.1em;
-}
-
-/* To Navigation Style */
-.codrops-top {
-  background: #fff;
-  background: rgba(255, 255, 255, 0.6);
-  text-transform: uppercase;
-  width: 100%;
-  font-size: 0.69em;
-  line-height: 2.2;
-}
-
-.codrops-top a {
-  text-decoration: none;
-  padding: 0 1em;
-  letter-spacing: 0.1em;
-  color: #888;
-  display: inline-block;
-}
-
-.codrops-top a:hover {
-  background: rgba(255,255,255,0.95);
-  color: #333;
-}
-
-.codrops-top span.right {
-  float: right;
-}
-
-.codrops-top span.right a {
-  float: left;
-  display: block;
-}
-
-.codrops-icon:before {
-  font-family: 'codropsicons';
-  margin: 0 4px;
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-}
-
-.codrops-icon-drop:before {
-  content: "\e001";
-}
-
-.codrops-icon-prev:before {
-  content: "\e004";
-}
-
-/* Demo Buttons Style */
-.codrops-demos {
-  padding-top: 1em;
-  font-size: 0.9em;
-}
-
-.codrops-demos a {
-  text-decoration: none;
-  outline: none;
-  display: inline-block;
-  margin: 0.5em;
-  padding: 0.7em 1.1em;
-  border: 3px solid #b1aea6;
-  color: #b1aea6;
-  font-weight: 700;
-}
-
-.codrops-demos a:hover,
-.codrops-demos a.current-demo,
-.codrops-demos a.current-demo:hover {
-  border-color: #89867e;
-  color: #89867e;
-}
-
-@media screen and (max-width: 25em) {
-
-  .codrops-icon span {
-    display: none;
-  }
-
-}
-
-*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-
-.wrapper {
-  margin: 0 auto 100px auto;
-  max-width: 960px;
-}
-
-.stage {
-  list-style: none;
-  padding: 0;
-}
-
-/*************************************
-Build the scene and rotate on hover
-**************************************/
-
-.scene {
-  width: 260px;
-  height: 400px;
-  margin: 30px;
-  float: left;
-  -webkit-perspective: 1000px;
-  -moz-perspective: 1000px;
-  perspective: 1000px;
-}
-
-.movie {
-  width: 260px;
-  height: 400px;
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-  -webkit-transform: translateZ(-130px);
-  -moz-transform: translateZ(-130px);
-  transform: translateZ(-130px);
-  -webkit-transition: -webkit-transform 350ms;
-  -moz-transition: -moz-transform 350ms;
-  transition: transform 350ms;
-}
-
-.movie:hover {
-  -webkit-transform: rotateY(-78deg) translateZ(20px);
-  -moz-transform: rotateY(-78deg) translateZ(20px);
-  transform: rotateY(-78deg) translateZ(20px);
-}
-
-/*************************************
-Transform and style the two planes
-**************************************/
-
-.movie .poster,
-.movie .info {
-  position: absolute;
-  width: 260px;
-  height: 400px;
-  background-color: #fff;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
-
-.movie .poster  {
-  -webkit-transform: translateZ(130px);
-  -moz-transform: translateZ(130px);
-  transform: translateZ(130px);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.movie .info {
-  -webkit-transform: rotateY(90deg) translateZ(130px);
-  -moz-transform: rotateY(90deg) translateZ(130px);
-  transform: rotateY(90deg) translateZ(130px);
-  border: 1px solid #B8B5B5;
-  font-size: 0.75em;
-}
-
-/*************************************
-Shadow beneath the 3D object
-**************************************/
-
-.csstransforms3d .movie::after {
-  content: '';
-  width: 260px;
-  height: 260px;
-  position: absolute;
-  bottom: 0;
-  box-shadow: 0 30px 50px rgba(0,0,0,0.3);
-  -webkit-transform-origin: 100% 100%;
-  -moz-transform-origin: 100% 100%;
-  transform-origin: 100% 100%;
-  -webkit-transform: rotateX(90deg) translateY(130px);
-  -moz-transform: rotateX(90deg) translateY(130px);
-  transform: rotateX(90deg) translateY(130px);
-  -webkit-transition: box-shadow 350ms;
-  -moz-transition: box-shadow 350ms;
-  transition: box-shadow 350ms;
-}
-
-.csstransforms3d .movie:hover::after {
-  box-shadow: 20px -5px 50px rgba(0,0,0,0.3);
-}
-
-/*************************************
-Movie information
-**************************************/
-
-.info header {
-  color: #FFF;
-  padding: 7px 10px;
-  font-weight: bold;
-  height: 195px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  text-shadow: 0px 2px 2px rgba(0,0,0,1);
-  }
-
-.info header h1 {
-  margin: 0 0 2px;
-  font-size: 2.8em;
-  color: white;
-  padding-top: 20px;
-}
-
-.info header .rating {
-  border: 1px solid #FFF;
-  padding: 0px 3px;
-}
-
-.info p {
-  padding: 1.2em 1.4em;
-  margin: 2px 0 0;
-  font-weight: 700;
-  color: #666;
-  line-height: 1.4em;
-  border-top: 10px solid #555;
-}
-
-/*************************************
-Generate "lighting" using box shadows
-**************************************/
-
-.movie .poster,
-.movie .info,
-.movie .info header {
-  -webkit-transition: box-shadow 350ms;
-  -moz-transition: box-shadow 350ms;
-  transition: box-shadow 350ms;
-}
-
-.csstransforms3d .movie .poster {
-  box-shadow: inset 0px 0px 40px rgba(255,255,255,0);
-}
-
-.csstransforms3d .movie:hover .poster {
-  box-shadow: inset 300px 0px 40px rgba(255,255,255,0.8);
-}
-
-.csstransforms3d .movie .info,
-.csstransforms3d .movie .info header {
-  box-shadow: inset -300px 0px 40px rgba(0,0,0,0.5);
-}
-
-.csstransforms3d .movie:hover .info,
-.csstransforms3d .movie:hover .info header {
-  box-shadow: inset 0px 0px 40px rgba(0,0,0,0);
-}
-
-/*************************************
-Posters and still images
-**************************************/
-
-.scene:nth-child(1) .movie .poster {
-  background-image: url(https://fahuhq.bn1302.livefilestore.com/y3mRUYVWQSbjvenvj-FimisiAnFX6xOTUxmsrLC8Q883JvsUGSFHnqdiIdgxKIxryptIW8XOXudC3VGjWwYUc4VFxlYN1c67VxPO-x15j_KOaM_Oopxj2YDI_2U0hWA_-RT3gLXDn9EhgxpoeK9jP2AwqFMTJSZKoqjgaPWdvI2Ofg?width=287&height=396&cropmode=none);
-}
-
-.scene:nth-child(2) .poster {
-  background-image: url(https://fag4na.bn1302.livefilestore.com/y3mxrl3ZBXeP0TM8uoxhxpfZW46uR3DdB10RZLERHYDQXb8SgyTUdCuZ06i24B7jccacdoMfl72yfDVQ65f2zkLzb-W6o3cT6UZI1GxZCs004PbADWEwe50FAy5ywue3rQx2baG3LNW34rdTP_144gutpv_EF0uy6xsWW6XutvPnlA?width=1080&height=837&cropmode=none);
-}
-
-.scene:nth-child(3) .poster {
-  background-image: url(https://fairtq.bn1302.livefilestore.com/y3mMx_URUID4WJ5ZuoP-P-8QdkRB-VaFpZST-VMCCpO-GSopgSEzYL20HX5XMOQ3HSMhqFmnKeeh248rPQgEfda2Ano1f8hksKtaUa7xo21VI0fNaQl-2z4sNJpwhhjepRa-LBUQGNXai2WVEEA9h4aq6Y5ZUKPeDkZ8o2z-FwdhnA?width=190&height=303&cropmode=none);
-
-}
-
-.scene:nth-child(1) .info header {
-  background-image: url(https://fagq4w.bn1302.livefilestore.com/y3mXOddPo8cCbd8v80bzDp01wDXwp52fc03wGUtrgQR-3V5iPEWXXyCdubd_JYiDfBShtym4WquGkx1awEF50mMEr3q7NBaoWv_yU-fh9gmjEBd2XEMatGEJGqNoNEL_ZP2XZi9WHZiteMz-TQ6uCMeyB6dsmjwF8oEQjNi4v8oE8c?width=800&height=600&cropmode=none);
-}
-
-.scene:nth-child(2) .info header {
-  background-image: url(https://fajavw.bn1302.livefilestore.com/y3mV3D4EUIphW-D_gC2A-rOluDxOnLDY-oc5CdqFW4qXyxd2muwO1l5hzKqWM6Qh6DRG7Z9Mxwc6-i8PZUTWOT1m9Fs4XqxejovNtapo7UZYYA_jWHGeMFiADQUWXBhDkB_5-Dav2w89q-be7ou0kJbRzRexitnKHqPi1ZPDJDKXuc?width=640&height=480&cropmode=none);
-}
-
-.scene:nth-child(3) .info header {
-  background-image: url(https://faikbg.bn1302.livefilestore.com/y3m98S5vt4Yu2odwp7gBpHZWN7X2ELiYuQPukq72dL3IgsZCqsa-c0V-ktE_2WxRP-TiUziu7gDxA6loV8bDfh9gdK11w1eOHlHqpqqn_NGBjRhx6Vps71WGl5vK9pHfux6J-c39EzTT2QHHnRTAJSt6E6np3hcqhNmTioap5sG35c?width=849&height=565&cropmode=none);
-}
-
-/*************************************
-Fallback
-**************************************/
-.no-csstransforms3d .movie .poster,
-.no-csstransforms3d .movie .info {
-  position: relative;
-}
-
-/*************************************
-Media Queries
-**************************************/
-@media screen and (max-width: 60.75em){
-  .scene {
-    float: none;
-    margin: 30px auto 60px;
-  }
 }
