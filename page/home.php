@@ -42,6 +42,11 @@
       </div>
       <div>
         <h1>Concept</h1>
+          <H2 class="text-center">FRANCHISES ATYPIQUES : UN POINT DE VUE UNIQUE <br>SUR LA RESTAURATION</H2>
+          <p>Le concept de franchise de restaurants atypiques a été créé par Julien Boyer et Damien Armenté, deux passionnés de gastronomie hors pair.
+             Le premièr restaurant "montgolfière" est ainsi née à Lyon en 2015. Le succès étant au rendez-vous, six autres restaurants ont vu le jour en moins d'un an : la Loupe, Fontainebleau, Orléans,
+              Bordeaux, Toulouse et Marseille...
+
       </div>
       <div class="wrapper">
         <ul class="stage clearfix">
@@ -105,9 +110,9 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="jumbotron" >
                 <div class="container">
-                    <h1 >Qui sommes-nous ?</h1>
+                    <h1>Qui sommes-nous ?</h1>
 
-                    <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
+                    <img src="images/damien_armente.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
 
                     <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
                         être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
@@ -117,7 +122,7 @@
                         tendent à reproduire le même extrait sans fin, ce qui fait de lipsum.com
                         le seul vrai générateur de Lorem Ipsum. Iil utilise un dictionnaire de plus de
                         200 mots latins.</p>
-                    <img src="images/damien-armente-profil.jpg" class="img-circle" alt="Damien Armenté" width="128" height="128">_
+                    <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
 
                     <p class="text-justify">lusieurs variations de Lorem Ipsum peuvent
                         être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition
