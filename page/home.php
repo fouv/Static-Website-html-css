@@ -41,7 +41,7 @@
       <div class="codrops-top clearfix">
       </div>
       <div>
-        <h1>Concept</h1>
+        <h1 id="anchor_concept">Concept</h1>
       </div>
       <div class="wrapper">
         <ul class="stage clearfix">
@@ -105,7 +105,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="jumbotron" >
                 <div class="container">
-                    <h1 >Qui sommes-nous ?</h1>
+                    <h1 id="anchor_who">Qui sommes-nous ?</h1>
 
                     <img src="images/julien.png" class="img-circle" alt="Julien Boyer" width="128" height="128">
 
