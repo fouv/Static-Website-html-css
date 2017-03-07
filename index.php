@@ -17,10 +17,10 @@ $file = $page . '.php';
     <title>
         <?php
         switch($page){
-            case 'home' :
+            case 'home':
                 echo 'Home page';
                 break;
-            case 'contact' :
+            case 'contact':
                 echo 'Contactez-nous';
                 break;
         }
@@ -34,9 +34,9 @@ $file = $page . '.php';
     <?php include "inc/header.php"; ?>
 </header>
 <main>
-    <div class="container-fluid" ></div>
-    <?php include "page/home.php"; ?>
-    <?php include "page/contact.php"; ?>
+    <div class="container" >
+        <?php include "page/home.php"; ?>
+        <?php include "page/contact.php"; ?>
     </div>
 </main>
 <footer>
@@ -49,7 +49,6 @@ $file = $page . '.php';
         crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script src="./js/jquery.easing.min.js"></script>
-<script src="./js/wow.js"></script>
 <script src="./js/scripts.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKKUKqjb6fRmXB5kU-dplXrn3Qr0Oud3A"></script>
 </body>
