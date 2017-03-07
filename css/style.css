@@ -18,14 +18,13 @@
       }
 .navbar-nav {
   padding-right: 100px;
-
    }
 .navbar-default .navbar-nav>li>a {
   color: white;
   font-size: 18px;
   padding: 20px;
 }
-.navbar-default .navbar-nav>li>a:hover{
+.navbar-default .navbar-nav>li>a:hover {
   color: #ed2024;
   font-size: 18px;
 }
@@ -81,7 +80,7 @@ img {
   margin: 0 auto;
   padding: 10px;
 }
-  h3{
+  h3 {
   color: #ed2024;
   font-size: 1.5em;
   font-family: sans-serif;
@@ -89,7 +88,7 @@ img {
   text-transform: uppercase;
   padding-top: 30px;
   margin-top: 0.25em;
-       }
+   }
 
   .home {
   width: 1300px;
@@ -99,8 +98,7 @@ img {
   padding-bottom: 0px;
   padding-left: 20px;
   }
-  .section-title
-  {
+  .section-title   {
     text-align: center;
     width: 100%;
     margin:0 auto;
@@ -217,4 +215,21 @@ body{
     .collapsing {
       overflow: hidden!important;
     }
-  }
+    .restaurant {
+      padding-top : 100px;
+      padding-bottom : 40px;
+      margin-top : 20px;
+    }
+    #restaurant.square {
+      transition: opacity 0.3s;
+      min-height: 1px;
+      margin: 0 auto;
+               }
+
+    }
+    #restaurant.squarebg {
+      background: #111;
+      position: relative;
+      overflow: hidden;
+      margin: 0 auto;
+          }

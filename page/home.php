@@ -63,4 +63,57 @@
             </div>
 
                 <!-- end of presentation -->
+
+          <div class="container">
+              <div class="restaurant">
+                  <div class="row">
+                      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+                          <div class="square_big">
+                          <div class = "square">
+                              <img src="../images/diner-montgolfiere.jpg">
+                          </div>
+                          </div>
+                      </div>
+                       <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+                          <div class="row">
+                              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                  <div class = "square">
+                                      <img src="../images/sky-restaurant.jpg">
+
+                                  </div>
+                               </div>
+                              <div class="row">
+                                  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                      <div class = "squarebg">
+                                          <img src="../images/sea-restaurant.jpg">
+
+                                      </div>
+                                  </div>
+                                  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                      <div class = "squarebg">
+                                          <img src="../images/orgue_restaurant.jpg">
+                                      </div>
+                                  </div>
+                              </div>
+                         </div>
+                     </div>
+                  </div>
+                  <div class="row">
+                  <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                      <div class = "squarebg">
+                          <img src="../images/orgue_restaurant.jpg">
+                                               </div>
+                  </div>
+                      <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                          <div class = "squarebg">
+                              <img src="../images/orgue_restaurant.jpg">
+                                                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                          <div class = "square">
+                              <img src="../images/sky-restaurant.jpg">
+                                                      </div>
+                      </div>
+                  </div>
+
     <title>Créer une carte API Google Maps Version 3</title>
