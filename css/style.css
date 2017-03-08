@@ -331,9 +331,12 @@ footer li{
 #SOCIAL-NETWORK li {
   margin: 0 5rem 0 0;
 }
-
-
-
+/*MAP*/
+#map{
+  width: 30%;
+  height: 100%;
+  margin: auto;
+}
   .default-heading {
     margin-top: 40px;
     margin-bottom: 40px;
