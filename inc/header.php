@@ -16,7 +16,7 @@
             <li ><a href="#anchor_concept">Concept</a></li>
             <li ><a href="#anchor_restaurants">Nos restaurants</a></li>
             <li ><a href="">Réservation</a></li>
-            <li ><a href="" class="btn btn-primary">Devenir franchisé</a></li>
+            <li ><a href="" >Devenir franchisé</a></li>
             <li ><a href="">Contact</a></li>
         </ul>
     </div>

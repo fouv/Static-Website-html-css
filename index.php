@@ -36,8 +36,6 @@ $file = $page . '.php';
 <main>
     <div class="container-fluid" ></div>
     <?php include "page/home.php"; ?>
-    <?php include "page/contact.php"; ?>
-    </div>
 </main>
 <footer>
     <?php include "inc/footer.php"; ?>
