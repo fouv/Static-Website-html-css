@@ -1,7 +1,7 @@
 <!--Navbar -->
-<div class = "row">
- <nav class="navbar navbar-default navbar-static-top sticky-header" >
-     <div class="full-wrapper">
+<div id="anchor_menu" class="row">
+    <nav class="navbar navbar-default navbar-static-top sticky-header" >
+        <div class="full-wrapper">
 
     <div class="navbar-header" >
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">

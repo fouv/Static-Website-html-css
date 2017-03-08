@@ -17,10 +17,10 @@ $file = $page . '.php';
     <title>
         <?php
         switch($page){
-            case 'home' :
+            case 'home':
                 echo 'Home page';
                 break;
-            case 'contact' :
+            case 'contact':
                 echo 'Contactez-nous';
                 break;
         }
@@ -34,8 +34,10 @@ $file = $page . '.php';
     <?php include "inc/header.php"; ?>
 </header>
 <main>
-    <div class="container-fluid" ></div>
-    <?php include "page/home.php"; ?>
+    <div class="container" >
+        <?php include "page/home.php"; ?>
+        <?php include "page/contact.php"; ?>
+    </div>
 </main>
 <footer>
     <?php include "inc/footer.php"; ?>
