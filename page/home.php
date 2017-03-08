@@ -32,34 +32,97 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-</div> <!--End carousel-->
-<!-- Home -->
+    </div> <!--End carousel-->
+    <!-- Home -->
 
+      <div class="container home">
+          <div class="default-heading">
+              <div class="title2">CONCEPT</div>
+            <div class="row text-center">
+                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 " >
+                    <div class="title3">Le succès d’une cuisine traditionnellement cuisinée devant vous</div>
+                   <div class="paragraphe">Nous proposons à nos clients des produits de qualité, faits « maison » ainsi que des
+                    menus traditionnels primés n°1 par le guide gastronomique "Michelin".
+                   Notre concept de cuisine ouverte et visible par les clients fait partie intégrante de notre philosophie et de notre design.
+                       Ce concept représente un facteur clé de notre succès car il met en exergue la qualité de notre savoir-faire et la fraîcheur de nos produits.</div>
+                <img src="../images/plat.jpg"  class="img-responsive">
+                </div>
+                <div class="col-xs-12  col-sm-6 col-md-4 col-lg-4 " >
+                    <div class="title3">La meilleure qualité, au meilleur prix</div>
+                  <div class="paragraphe">Nous défendons des valeurs qui nous sont essentielles, à savoir d’offrir à nos consommateurs une qualité supérieure en termes de produits et de service,
+                    et cela au meilleur prix.Nos restaurans ont su combiner leur savoir-faire traditionnel aux produits de haute qualité française et européenne,
+                      tout en conservant des prix extrêmement concurrentiels, créant ainsi un positionnement unique en France.</div>
 <div class="home">
     <div class="row">
         <div class="col-xs-3 col-md-4 col-lg-3 " >
-            <h3 class="title3">Le succès d’une cuisine traditionnellement cuisinée devant vous</h3>
-            <p class="paragraphe">Depuis 1934, Steak ’n Shake propose à ses clients des burgers premium de qualité, des frites fraîches « maison » ainsi que des
+            <div class="title3">Le succès d’une cuisine traditionnellement cuisinée devant vous</div>
+            <div class="paragraphe">Depuis 1934, Steak ’n Shake propose à ses clients des burgers premium de qualité, des frites fraîches « maison » ainsi que des
                 Milkshakes traditionnels primés n°1 par le guide gastronomique ZAGAT aux Etats- Unis.
                 Notre concept de cuisine ouverte et visible par les clients fait partie intégrante de notre philosophie et de notre design.
-                Ce concept représente un facteur clé de notre succès car il met en exergue la qualité de notre savoir-faire et la fraîcheur de nos produits.</p>
+                Ce concept représente un facteur clé de notre succès car il met en exergue la qualité de notre savoir-faire et la fraîcheur de nos produits.</div>
             <img src="../images/plat.jpg" class="src-col">
         </div>
         <div class="col-xs-4 col-md-4 col-lg-4 " >
-            <h3 class="title3">La meilleure qualité, au meilleur prix</h3>
-            <p class="paragraphe">Nous défendons des valeurs qui nous sont essentielles, à savoir d’offrir à nos consommateurs une qualité supérieure en termes de produits et de service,
+            <div class="title3">La meilleure qualité, au meilleur prix</div>
+            <div class="paragraphe">Nous défendons des valeurs qui nous sont essentielles, à savoir d’offrir à nos consommateurs une qualité supérieure en termes de produits et de service,
                 et cela au meilleur prix.Steak ’n Shake a su combiner son savoir-faire traditionnel aux produits de haute qualité française et européenne,
-                tout en conservant des prix extrêmement concurrentiels, créant ainsi un positionnement unique en France, et plus généralement en Europe.</p>
+                tout en conservant des prix extrêmement concurrentiels, créant ainsi un positionnement unique en France, et plus généralement en Europe.</div>
 
+                    <img src="../images/plat.jpg"  class="img-responsive">
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 " >
+                    <div>Des endroits inoubliables</div>
+                    <div class="paragraphe">Qui n'aimerait pas profiter d'un merveilleux décor pour se relaxer en profitant d'un bon repas ? Etre au bord de la mer, au coeur d'une forêt
+                        ou même  suspendu dans les airs... tant de lieux qui font rêver et qui existent réellement. C'est ce que nous vous offrons sur un plateau !</div>
             <img src="../images/plat.jpg" class="src-col">
         </div>
         <div class="col-xs-4 col-md-4 col-lg-4 " >
-            <h3 class="title3">Des endroits inoubliables</h3>
-            <p class="paragraphe">Qui n'aimerait pas profiter d'un merveilleux décor pour se relaxer en profitant d'un bon repas ? Etre au bord de la mer, au coeur d'une forêt
-                ou même  suspendu dans les airs... tant de lieux qui font rêver et qui existent réellement. C'est ce que nous vous offrons sur un plateau !</p>
+            <div class="title3">Des endroits inoubliables</div>
+            <div class="paragraphe">Qui n'aimerait pas profiter d'un merveilleux décor pour se relaxer en profitant d'un bon repas ? Etre au bord de la mer, au coeur d'une forêt
+                ou même  suspendu dans les airs... tant de lieux qui font rêver et qui existent réellement. C'est ce que nous vous offrons sur un plateau !</div>
 
-            <img src="../images/plat.jpg" class="src-col">
-        </div>
-    </div>
+                    <img src="../images/plat.jpg"  class="img-responsive">
+                </div>
+            </div>
+            </div>
+      </div>
 
-    <!-- end of presentation -->
+                <!-- end of presentation -->
+
+          <div class="container" >
+              <div class="default-heading">
+                  <h2>NOS RESTAURANTS</h2>
+              <div class="row" class="img-responsive">
+                  <section class="home">
+                      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
+                          <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                              <img src="../images/diner-montgolfiere.jpg" class="img-responsive">
+                          </div>
+                          <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                             <div class="row">
+                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                      <div class="restaurant">
+                                <img src="../images/sky-restaurant.jpg" class="img-responsive">
+
+                             <div class="row">
+                                 <div class="restaurant">
+                                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                        <img src="../images/sea-restaurant.jpg" class="img-responsive">
+                                    </div>
+                                     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                         <img src="../images/orgue_restaurant.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                                </div>
+                              </div>
+                         </div>
+                          </div>
+                          </div>
+                              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
+                                  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6"> </div>
+                       </section>
+                     </div>
+              </div>
+          </div>
+
+    <title>Créer une carte API Google Maps Version 3</title>
