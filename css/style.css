@@ -100,12 +100,22 @@ img {
   height: auto;
   display: block;
   line-height: 1.6;
+
 }
 .squarebg {
-  height: 420px;
+  height: auto;
 }
 .square-header {
-
+  -webkit-transition-delay: 2s;
+  -moz-transition-delay: 2s;
+  -o-transition-delay: 2s;
+  transition-delay: 2s;
+  left: 15px;
+  line-height: 1em;
+  font-size: 20px;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 5px 10px;
+  transition: -webkit-transform 0.3s 0.2s,-moz-transform 0.3s 0.2s,-o-transform 0.3s 0.2s,transform 0.3s 0.2s, opacity 0.5s 0.2s;
 }
   .home {
   margin: 0 auto;
@@ -157,7 +167,7 @@ body{
   font-weight: bold;
   color: darkred;
   text-align: center;
-  padding: 10px;
+  padding: 40px;
 
 }
 .title3{
