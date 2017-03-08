@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <div class="container">
         <div class="row">
-            <h2 id="anchor_contact" class="title2">Contact</h2>
+            <h2 class="title2">Contact</h2>
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                 <form class="form-horizontal FORM" action="" method="post" role="form">
 
@@ -47,7 +47,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <label for="exampleInputTown">Dans quelle ville souhaitez-vous devenir franchisé Wild Restaurant ?</label>
                         <input type="tel" class="form-control saut" id="exampleInputTown" placeholder="Nice / Saint Jean de Luz / Belle ile ?...">
                     </div>
+
+
             </div>
+
+
 
 
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
