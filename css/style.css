@@ -18,12 +18,9 @@ html {
   background-color: black;
   width: 100%;
   }
-
-}
 .navbar-static-top {
   position: fixed !important;
-
-}
+  }
   .navbar-static-top {
     position: fixed !important;
       }
@@ -84,14 +81,6 @@ html {
     font-weight: bolder;
  }
 .carousel-inner {
-  background-color: ;
-  }
-label{
-  display: block;
-  width: 150px;
-  float: left;
-  }
-.carousel-inner {
   margin-top: 100px;
 }
 
@@ -104,7 +93,6 @@ label{
 img {
   margin: 0 auto;
   }
-
 .paragraphe{
   font-size: 14px;
  margin: 0 auto;
@@ -113,7 +101,6 @@ img {
   display: block;
   line-height: 1.6;
 }
-
   .home {
   margin: 0 auto;
   padding-top: 80px;
@@ -147,7 +134,7 @@ img {
 body{
   background: white;
   font-family: "Open Sans", Arial, sans-serif;
-}
+  }
 .carousel-control {
   opacity: .7;
 }
