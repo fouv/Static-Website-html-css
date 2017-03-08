@@ -90,16 +90,6 @@ html {
   width: 80%;
 }
 /*CONCEPT*/
-.title3{
-  color: #ed2024;
-  font-size: 1.2em;
-  font-family: sans-serif;
-  font-weight: 700px;
-  text-transform: uppercase;
-  padding-top: 30px;
-  text-align: center;
-  margin-top: 0.25em;
-}
 img {
   margin: 0 auto;
   }
@@ -161,14 +151,24 @@ body{
   font-weight: bold;
   color: darkred;
   text-align: center;
-  padding-top: 10px;
+  padding: 10px;
+
+}
+.title3{
+  color: darkred;
+  font-size: 1.5em;
+  font-weight: 700px;
+  text-transform: uppercase;
+  padding: 30px;
+  text-align: justify;
+
 }
 .paragraphe{
-  text-align: center;
-  font-size: 0.8em;
-  padding: 0 20% 0 20%;
-  margin: 50px;
-  border: solid blue 1px;
+  text-align: justify;
+  font-size: 1em;
+  padding: 30px;
+  text-transform: uppercase;
+
 }
 /**@import url(http://fonts.googleapis.com/css?family=Lato:300,400,900);**/
 @font-face {
@@ -320,7 +320,6 @@ footer li{
   margin: auto;
 }
   .default-heading {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    padding : 60px;
     text-align: center;
   }
