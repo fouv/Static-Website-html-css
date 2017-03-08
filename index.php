@@ -40,8 +40,7 @@ $file = $page . '.php';
     <div class="container" >
         <?php include "page/home.php"; ?>
         <?php include "page/map.php"; ?>
-        <?php include "page/contact.php"; ?>
-    </div>
+          </div>
 </main>
 <footer>
     <?php include "inc/footer.php"; ?>

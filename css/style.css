@@ -113,7 +113,12 @@ img {
   display: block;
   line-height: 1.6;
 }
+.squarebg {
+  height: 420px;
+}
+.square-header {
 
+}
   .home {
   margin: 0 auto;
   padding-top: 80px;

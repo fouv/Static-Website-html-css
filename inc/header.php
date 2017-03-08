@@ -17,7 +17,7 @@
             <li ><a href="#anchor_restaurants">Nos restaurants</a></li>
             <li ><a href="">Réservation</a></li>
             <li ><a href="" >Devenir franchisé</a></li>
-            <li ><a href="">Contact</a></li>
+            <li ><a href="page/contact.php">Contact</a></li>
         </ul>
     </div>
  </div>

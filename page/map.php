@@ -1,8 +1,7 @@
 
 
 <div id="MAP-CONTAINER"
-    <h2 id="anchor_map" class="title2">Nos restaurants</h2>
-        <div id="map"></div>
+           <div id="map"></div>
 
             <script type="text/javascript">
                 $(function() {
