@@ -23,6 +23,9 @@ $file = $page . '.php';
             case 'contact':
                 echo 'Contactez-nous';
                 break;
+            case 'map':
+                echo 'Nos restaurants';
+                break;
         }
         ?>
     </title>
@@ -36,6 +39,7 @@ $file = $page . '.php';
 <main>
     <div class="container" >
         <?php include "page/home.php"; ?>
+        <?php include "page/map.php"; ?>
         <?php include "page/contact.php"; ?>
     </div>
 </main>
@@ -50,6 +54,9 @@ $file = $page . '.php';
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script src="./js/jquery.easing.min.js"></script>
 <script src="./js/scripts.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKKUKqjb6fRmXB5kU-dplXrn3Qr0Oud3A"></script>
+<script async defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKKUKqjb6fRmXB5kU-dplXrn3Qr0Oud3A"></script>
+<script type="text/javascript" src="./js/jquery.googlemap.js"></script>
+
+
 </body>
 </html>

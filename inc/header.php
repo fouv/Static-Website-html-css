@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right" >
                     <li ><a href="#anchor_concept">Concept</a></li>
-                    <li ><a href="#anchor_restaurants">Nos restaurants</a></li>
+                    <li ><a href="#anchor_map">Nos restaurants</a></li>
                     <li ><a href="">Réservation</a></li>
                     <li ><a href="" class="btn btn-primary">Devenir franchisé</a></li>
                     <li ><a href="#anchor_contact">Contact</a></li>

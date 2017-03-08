@@ -191,5 +191,9 @@ footer li{
 #SOCIAL-NETWORK li {
   margin: 0 5rem 0 0;
 }
-
-
+/*MAP*/
+#map{
+  width: 30%;
+  height: 100%;
+  margin: auto;
+}
