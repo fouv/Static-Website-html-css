@@ -7,4 +7,9 @@
     $('#accordion').on('hidden.bs.collapse', toggleChevron);
     $('#accordion').on('shown.bs.collapse', toggleChevron);
 
-})(jQuery);
+
+
+
+$('#BOUTON').click(function() {
+    $('#MERCI').modal('show');
+    });

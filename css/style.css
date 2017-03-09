@@ -163,6 +163,11 @@ li {
 .FORM {
   width: 80%;
 }
+.POPUP {
+  background-color: lightblue;
+  text-align: center;
+}
+
 /*CONCEPT*/
 img {
   margin: 0 auto;
