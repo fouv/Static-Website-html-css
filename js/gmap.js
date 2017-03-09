@@ -39,7 +39,7 @@ $(function() {
         address: "35 rue Saint Honoré 77300 Fontainebleau", // Postale Address
         url: 'http://www.wildcodeschool.com' // Link
     });
-        
+
 
 
 });
