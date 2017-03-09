@@ -179,8 +179,10 @@ img {
   line-height: 1.6;
 }
 .squarebg {
-  height: 300px;
+  height: auto;
+  padding-top: 10px;
 }
+
 .square-header {
   -webkit-transition-delay: 2s;
   -moz-transition-delay: 2s;
@@ -246,6 +248,14 @@ body {
   padding: 40px;
 
 }
+.title5{
+  color: white;
+  font-size: 1.4em;
+  font-weight: 700px;
+  text-transform: uppercase;
+  padding: 20px;
+  text-align: center;
+}
 .title3{
   color: darkred;
   font-size: 1.5em;
@@ -260,6 +270,13 @@ body {
   padding: 30px;
   text-transform: uppercase;
 }
+.paragraphegrey{
+  text-align: justify;
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: 800;
+  }
+
 /**@import url(http://fonts.googleapis.com/css?family=Lato:300,400,900);**/
 @font-face {
   font-family: 'codropsicons';

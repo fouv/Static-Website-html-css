@@ -4,42 +4,74 @@
 <div class="container" >
     <div class="default-heading">
         <div class="title2">NOS RESTAURANTS</div>
-        <div class="row" class="img-responsive">
+        <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
-                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+              <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <div class ="squarebg">
                         <div class="square-header">
-                            <div class="title3" > Lyon</div>
+                            <div class="title5" > Lyon</div>
                             <img src="../images/diner-montgolfiere.jpg" class="img-responsive">
                         </div>
                            </div>
-                                </div>
+                             </div>
 
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                            <div class="restaurant">
-                                <div class ="squarebg"><div class="square-header"><div class="title3">La Loupe</div>
-                                        <img src="../images/sky-restaurant.jpg" class="img-responsive">
-                                    </div></div></div>
-
-                    <div class="row">
-                        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                            <div class ="squarebg"><div class="square-header"><div class="title3">Bordeaux</div>
-                                    <img src="../images/sea-restaurant.jpg" class="img-responsive"</div></div></div>
-                            </div>
+                        <div class="restaurant">
+                           <div class ="squarebg">
+                              <div class="square-header">
+                               <div class="title5">La Loupe</div>
+                                    <img src="../images/sky-restaurant.jpg" class="img-responsive">
+                              </div>
+                         </div>
+                       </div>
+                       <div class="restaurant">
+                            <div class ="squarebg">
+                                <div class="square-header">
+                                    <div class="title5">Marseille</div>
+                                    <img src="../images/restaurant3.jpg" class="img-responsive"> </div>
+                                </div>
+                           </div>
+                        </div>
                       </div>
+                     </div>
+
+
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="restaurant">
+                <div class ="squarebg">
+                    <div class="square-header">
+                        <div class="title5">La Loupe</div>
+                        <img src="../images/restaurant1.jpg" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+            <div class="restaurant">
+                <div class ="squarebg">
+                    <div class="square-header">
+                        <div class="title5">Bordeaux</div>
+                        <img src="../images/restaurant2.jpg" class="img-responsive"> </div>
+                   </div>
                </div>
-         </div>
+           </div>
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class ="squarebg">
+                <div class="square-header">
+                    <div class="title5" > Fontainebleau</div>
+                    <img src="">vide
+                    <img src="../images/restaurant4.jpg" class="img-responsive">
+                </div>
             </div>
         </div>
     </div>
+</div>
 
 
+
+<div class="container">
                <div class="title2" > ou nous trouver ? </div>
                 <div class="row">
-
-               <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                    <div class="home">
+               <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                    <div class="panel-group" id="accordion">
                    <div class="panel panel-default">
                        <div class="panel panel-primary">
@@ -123,13 +155,44 @@
                                           </div>
                                         </div>
                                     </div>
+                   <div class="panel panel-primary">
+                       <div class="panel-heading">
+                           <div class="title4">
+                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                   TOULOUSE
+                               </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
+                           </div>
+                       </div>
+                       <div id="collapseThree" class="panel-collapse collapse">
+                           <div class="panel-body">
+                               1 Place de la bourse <br>
+                               31000 Toulouse <br>
+                               +33 6 66 47 68 70
+                           </div>
+                       </div>
+                   </div>
+                   <div class="panel panel-primary">
+                       <div class="panel-heading">
+                           <div class="title4">
+                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                   MARSEILLE
+                               </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
+                           </div>
+                       </div>
+                       <div id="collapseThree" class="panel-collapse collapse">
+                           <div class="panel-body">
+                               70 rue Morellon <br>
+                               13000 Marseille <br>
+                               +33 6 32 26 40 32
+                           </div>
+                       </div>
+                   </div>
                                 </div>
                 </div>
-                                            <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+                                            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                                                 <div>
                                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.2426722067576!2d4.824636651000809!3d45.74628072249539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea4ab604554f%3A0x83e3e33b33887834!2s17+Rue+Delandine%2C+69002+Lyon!5e0!3m2!1sfr!2sfr!4v1489052239133" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                                                 </div>
                                             </div>
                    </div>
-                </div>
 </div>
