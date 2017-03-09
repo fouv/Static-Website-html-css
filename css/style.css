@@ -95,24 +95,21 @@ li {
 
 .navbar-default {
   margin: 0px;
-  background-color: black;
+  background-color : black;
   width: 100%;
+
 }
-.navbar-static-top {
-  position: fixed !important;
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  background-color: black;
 }
 .navbar-static-top {
   position: fixed !important;
 }
 .navbar-nav {
-  padding-right: 100px;
-}
-.navbar-default .navbar-nav>li>a {
-  color: white;
-  font-size: 18px;
+  padding-right: 80px;
 }
 .navbar-default .navbar-nav>li>a:hover {
-  color: #ed2024;
+  color: white;
   font-size: 18px;
 }
 .navbar-collapse {
