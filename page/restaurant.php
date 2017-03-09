@@ -6,7 +6,7 @@
         <div class="title2">NOS RESTAURANTS</div>
         <div class="row" class="img-responsive">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
-                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                     <div class ="squarebg">
                         <div class="square-header">
                             <div class="title3" > Lyon</div>
@@ -34,19 +34,20 @@
             </div>
         </div>
     </div>
-           <div class="container">
-                <div class="row">
-                <div class="title3" > ou nous trouver ? </div>
 
-               <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                              <div class="panel-group" id="accordion">
+          
+               <div class="title2" > ou nous trouver ? </div>
+                <div class="row">
+
+               <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                   <div class="panel-group" id="accordion">
                    <div class="panel panel-default">
                        <div class="panel panel-primary">
-                           <h4 class="panel-title">
+                           <div class="title4"">
                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
                                    WILD LYON
                                </a><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i>
-                           </h4>
+                           </div>
                        </div>
                        <div id="collapseOne" class="panel-collapse collapse in">
                            <div class="panel-body">
@@ -54,38 +55,77 @@
                                69002 LYON<br>
                                Tél (33) 04 42 38 25 08<br>
                        </div>
-                   </div>
+                  </div>
+              </div>
                    <div class="panel panel-primary">
                        <div class="panel-heading">
-                           <h4 class="panel-title">
+                           <div class="title4">
                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                                   Collapsible Group Item #2
+                                   LA LOUPE
                                </a><i class="indicator glyphicon glyphicon-chevron-up  pull-right"></i>
-                           </h4>
+                           </div>
                        </div>
                        <div id="collapseTwo" class="panel-collapse collapse">
                            <div class="panel-body">
-                               Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                               18 Rue de la gare<br>
+                               28240 La Loupe<br>
+                               +06 19 34 42 37<br>
                            </div>
                        </div>
                    </div>
                    <div class="panel panel-primary">
                        <div class="panel-heading">
-                           <h4 class="panel-title">
+                           <div class="title4">
                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                                   Collapsible Group Item #3
+                                   FONTAINEBLEAU
                                </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
-                           </h4>
+                           </div>
                        </div>
                        <div id="collapseThree" class="panel-collapse collapse">
                            <div class="panel-body">
-                               Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                               Les Mines Paris Tech<br>
+                               35 rue Saint Honoré <br>
+                               77300 Fontainebleau <br>
+                               +33 6 58 46 83 32
                            </div>
                        </div>
                    </div>
-               </div>
-                          <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                   google map
-               </div>
-               </div>
+                   <div class="panel panel-primary">
+                       <div class="panel-heading">
+                           <div class="title4">
+                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                   ORLEANS
+                               </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
+                           </div>
+                       </div>
+                       <div id="collapseThree" class="panel-collapse collapse">
+                           <div class="panel-body">
+                               Le Lab’O <br>
+                               1 Avenue du champ de Mars <br>
+                               45100 Orléans <br>
+                               +33 6 62 39 71 04
+                           </div>
+                       </div>
+                   </div>
+                         <div class="panel panel-primary">
+                                      <div class="panel-heading">
+                                          <div class="title4">
+                                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                                  BORDEAUX
+                                              </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
+                                          </div>
+                                      </div>
+                                      <div id="collapseThree" class="panel-collapse collapse">
+                                          <div class="panel-body">
+                                              15 Place Canteloup <br>
+                                              33800 Bordeaux <br>
+                                              +33 6 66 96 17 77
+                                          </div>
+                                        </div>
+                                    </div>
+                                </div>
                 </div>
+                                            <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8"> google map </div>
+                   </div>
+                </div>
+</div>
