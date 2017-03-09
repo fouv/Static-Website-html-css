@@ -60,6 +60,9 @@ li {
   max-width: 60em;
   margin: 0 auto;
 }
+.accordion-toggle {
+  color:white;
+}
 .content {
   background-color: #f4f4f4;
   padding: 20px 0px;
@@ -68,6 +71,13 @@ li {
   color: #777;
   line-height: 1.7;
   margin: 0 auto;
+}
+.title4 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: darkred;
+  text-align: center;
 }
 
 .title2 {
