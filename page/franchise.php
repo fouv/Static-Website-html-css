@@ -1,7 +1,8 @@
-    <div class="title2">DEVENIR FRANCHISE</div></div>
+<div class="default-heading">
+<div class="title2">DEVENIR FRANCHISE</div>
     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <div class="paragraphe">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="paragraphegrey">
                 Vous rêvez d’ouvrir votre restaurant tout en maîtrisant votre investissement ? Vous n’avez pas d’expérience préalable
                 en restauration? Vous souhaitez bénéficier de l’appui d’un concept éprouvé, performant et ambitieux?
                 Nous vous proposons l’un des réseau les plus dynamiques et innovant de Bagels&Burgers! Fort du succès de ses 3 premiers
@@ -13,10 +14,11 @@
               </div>
          </div>
         <div class="row">
+            <div class="default-heading">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <div class="title3" >La Franchise Wild Restaurant</div>
-                  <div class="paragraphe" >Le concept BCHEF® propose un large choix d'entrées, plats chaudset desserts préparés
+                  <div class="paragraphe" >Le concept propose un large choix d'entrées, plats chaudset desserts préparés
                       à la commande à partir d’une cinquantaine d’ingrédients frais, à consommer sur place, à emporter ou en livraison. Notre objectif :
                       offrir un produit personnalisé au goût inimitable et à un prix séduisant (formules allant de 8,50 à 11,50 €)</div>
                     <div class="paragraphe">Notre franchise se distingue par son architecture innovante et ses grands espaces confortables qui attirent les clients
@@ -29,13 +31,11 @@
                         <li>Equipe d’encadrement solide de 12 personnes à la tête de réseau</li></ul>
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                   <img class="d-block img-fluid" src="images/cuisineag.jpg" alt="First slide">
+                   <img class="d-block img-fluid" src="images/coffee.jpg" alt="First slide">
                             </div>
-                                                    </div>
                     </div>
-        </div>
-        </div>
-     </div>
+                </div>
+           </div>
 
 
 
