@@ -320,6 +320,11 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
   }
+  .navbar-nav > li > a:visited {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color : white;
+  }
 
   .navbar-text {
     float: none;

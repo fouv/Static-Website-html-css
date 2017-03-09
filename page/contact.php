@@ -7,6 +7,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     ?>
 
     <div class="container">
+        <div class="default-heading">
+            <div id="anchor_contact"class="title2">CONTACT</div>
         <div class="row">
           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                 <form class="form-horizontal FORM" action="" method="post" role="form">
