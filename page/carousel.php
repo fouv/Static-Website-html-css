@@ -9,16 +9,16 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="../images/0.jpg" alt="First restaurant" class="center-block">
+                <img src="/images/0.jpg" alt="First restaurant" class="center-block">
             </div>
             <div class="item">
-                <img src="../images/1.jpg" alt="Second restaurant" class="center-block">
+                <img src="/images/1.jpg" alt="Second restaurant" class="center-block">
             </div>
             <div class="item">
-                <img src="../images/2.jpg" alt="Third restaurant" class="center-block">
+                <img src="/images/2.jpg" alt="Third restaurant" class="center-block">
             </div>
             <div class="item">
-                <img src="../images/3.jpg" alt="Fourth restaurant" class="center-block">
+                <img src="/images/3.jpg" alt="Fourth restaurant" class="center-block">
             </div>
         </div>
 

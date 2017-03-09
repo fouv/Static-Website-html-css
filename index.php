@@ -1,7 +1,3 @@
-<?php
-$page = (isset($_GET['page']) ? $_GET['page'] : "index" );
-$file = $page . '.php';
-?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,13 +6,15 @@ $file = $page . '.php';
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" media="all">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet"
+          media="all">
     <meta name="generator" content="Codeply">
     <title>
         <?php
-        switch($page){
+        switch ($page) {
             case 'home':
                 echo 'Home page';
                 break;
@@ -26,33 +24,35 @@ $file = $page . '.php';
             case 'map':
                 echo 'Nos restaurants';
                 break;
+            case 'franchise':
+                echo 'Devenir franchisé';
+                break;
+            case 'concept':
+                echo 'Concept';
+                break;
         }
         ?>
     </title>
-
-
 </head>
 <body>
 <header>
     <?php include "inc/header.php"; ?>
 </header>
 <main>
-    <div class="container" >
-        <?php include "page/carousel.php"; ?>
-        <?php include "page/concept.php"; ?>
-        <?php include "page/restaurant.php"; ?>
-        <?php include "page/franchise.php"; ?>
-        <?php include "page/contact.php"; ?>
-          </div>
+    <div class="container">
+        <section id="slider"><?php include "page/carousel.php"; ?></section>
+        <section id="concept"><?php include "page/concept.php"; ?></section>
+        <section id="restaurant"><?php include "page/restaurant.php"; ?></section>
+        <section id="franchise"><?php include "page/franchise.php"; ?></section>
+        <section id="contact"><?php include "page/contact.php"; ?></section>
+    </div>
 </main>
 <footer>
     <?php include "inc/footer.php"; ?>
 </footer>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKKUKqjb6fRmXB5kU-dplXrn3Qr0Oud3A">
+<script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKKUKqjb6fRmXB5kU-dplXrn3Qr0Oud3A">
 </script>
-
-
-
 <script
         src="https://code.jquery.com/jquery-3.1.1.js"
         integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
@@ -62,8 +62,8 @@ $file = $page . '.php';
 
 <script src="./js/jquery.easing.min.js"></script>
 <script src="./js/scripts.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
 </body>
 </html>
