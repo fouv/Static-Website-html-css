@@ -69,7 +69,7 @@
           <div class="container" >
               <div class="default-heading">
                   <div class="title2">NOS RESTAURANTS</div>
-              <div class="row" class="img-responsive">
+              <div class="row img-responsive">
                   <section class="home">
                       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
                           <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
@@ -102,4 +102,4 @@
               </div>
           </div>
 
-    <title>Créer une carte API Google Maps Version 3</title>
+<?php include "./inc/map.php"; ?>
