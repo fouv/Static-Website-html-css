@@ -61,7 +61,7 @@ li {
   margin: 0 auto;
 }
 .accordion-toggle {
-  color:white;
+  color:black;
 }
 .content {
   background-color: #f4f4f4;
@@ -195,7 +195,7 @@ img {
 }
 .home {
   margin: 0 auto;
-  padding-top: 80px;
+  padding-top: 30px;
   padding-right: 20px;
   padding-bottom: 0px;
   padding-left: 20px;
@@ -252,7 +252,7 @@ body {
   font-weight: 700px;
   text-transform: uppercase;
   padding: 20px;
-  text-align: justify;
+  text-align: center;
 }
 .paragraphe{
   text-align: justify;

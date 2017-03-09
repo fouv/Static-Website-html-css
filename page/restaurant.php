@@ -35,7 +35,7 @@
         </div>
     </div>
 
-          
+
                <div class="title2" > ou nous trouver ? </div>
                 <div class="row">
 
