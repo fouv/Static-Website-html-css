@@ -15,9 +15,8 @@
         <ul class="nav navbar-nav navbar-right" >
             <li ><a href="#anchor_concept">Concept</a></li>
             <li ><a href="#anchor_restaurants">Nos restaurants</a></li>
-            <li ><a href="">Réservation</a></li>
             <li ><a href="" >Devenir franchisé</a></li>
-            <li ><a href="page/contact.php">Contact</a></li>
+            <li ><a href="#anchor contact">Contact</a></li>
         </ul>
     </div>
  </div>

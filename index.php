@@ -38,8 +38,12 @@ $file = $page . '.php';
 </header>
 <main>
     <div class="container" >
-        <?php include "page/home.php"; ?>
+        <?php include "page/carousel.php"; ?>
+        <?php include "page/concept.php"; ?>
+        <?php include "page/restaurant.php"; ?>
         <?php include "page/map.php"; ?>
+        <?php include "page/franchise.php"; ?>
+        <?php include "page/contact.php"; ?>
           </div>
 </main>
 <footer>
@@ -56,7 +60,6 @@ $file = $page . '.php';
 <script src="./js/scripts.js"></script>
 <script async defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKKUKqjb6fRmXB5kU-dplXrn3Qr0Oud3A"></script>
 <script type="text/javascript" src="./js/jquery.googlemap.js"></script>
-
 
 </body>
 </html>

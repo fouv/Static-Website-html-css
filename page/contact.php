@@ -6,11 +6,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 } else {
     ?>
 
-
     <div class="container">
         <div class="row">
-            <h2 class="title2">Contact</h2>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                 <form class="form-horizontal FORM" action="" method="post" role="form">
 
 
