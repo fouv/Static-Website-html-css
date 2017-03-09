@@ -1,3 +1,6 @@
+
+
+
 <div class="container" >
     <div class="default-heading">
         <div class="title2">NOS RESTAURANTS</div>
@@ -21,7 +24,7 @@
                                     </div></div></div>
 
                     <div class="row">
-                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                             <div class ="squarebg"><div class="square-header"><div class="title3">Bordeaux</div>
                                     <img src="../images/sea-restaurant.jpg" class="img-responsive"</div></div></div>
                             </div>
@@ -32,7 +35,57 @@
         </div>
     </div>
            <div class="container">
-                <div class="rowlocation">
+                <div class="row">
                 <div class="title3" > ou nous trouver ? </div>
+
+               <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                              <div class="panel-group" id="accordion">
+                   <div class="panel panel-default">
+                       <div class="panel panel-primary">
+                           <h4 class="panel-title">
+                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                                   WILD LYON
+                               </a><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i>
+                           </h4>
+                       </div>
+                       <div id="collapseOne" class="panel-collapse collapse in">
+                           <div class="panel-body">
+                               104 AVENUE DES LOGISSONS <br>
+                               69002 LYON<br>
+                               Tél (33) 04 42 38 25 08<br>
+                       </div>
+                   </div>
+                   <div class="panel panel-primary">
+                       <div class="panel-heading">
+                           <h4 class="panel-title">
+                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                                   Collapsible Group Item #2
+                               </a><i class="indicator glyphicon glyphicon-chevron-up  pull-right"></i>
+                           </h4>
+                       </div>
+                       <div id="collapseTwo" class="panel-collapse collapse">
+                           <div class="panel-body">
+                               Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                           </div>
+                       </div>
+                   </div>
+                   <div class="panel panel-primary">
+                       <div class="panel-heading">
+                           <h4 class="panel-title">
+                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                   Collapsible Group Item #3
+                               </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
+                           </h4>
+                       </div>
+                       <div id="collapseThree" class="panel-collapse collapse">
+                           <div class="panel-body">
+                               Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                           </div>
+                       </div>
+                   </div>
+               </div>
+                          <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                   google map
+               </div>
+               </div>
                 </div>
-            </div>
