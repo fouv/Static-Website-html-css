@@ -1,4 +1,4 @@
-<div class="default-heading">
+<div id="anchor_franchise" class="default-heading">
     <div class="title2">DEVENIR FRANCHISE</div>
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -50,6 +50,9 @@
                     <img class="d-block img-fluid" src="images/coffee.jpg" alt="First slide">
                 </div>
             </div>
+        </div>
+        <div>
+            <a class="js-scrollTo anchor" href="#anchor_menu"><img src="/images/return.png" alt="retour haut" width="50rem"></a>
         </div>
     </div>
 

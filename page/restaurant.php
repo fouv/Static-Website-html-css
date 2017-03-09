@@ -1,4 +1,4 @@
-<div class="container">
+<div id="anchor_restaurants" class="container">
     <div class="default-heading">
         <div class="title2">NOS RESTAURANTS</div>
         <div class="row">
@@ -71,8 +71,7 @@
                 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel panel-primary">
-                            <div class="title4"
-                            ">
+                            <div class="title4">
                             <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
                                href="#collapseOne">
                                 WILD LYON
@@ -198,5 +197,8 @@
                 <div id="map"></div>
             </div>
         </div>
+    </div>
+    <div>
+        <a class="js-scrollTo anchor" href="#anchor_menu"><img src="/images/return.png" alt="retour haut" width="50rem"></a>
     </div>
 </div>

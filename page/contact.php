@@ -1,4 +1,4 @@
-<div class="container">
+<div id="anchor_contact" class="container">
     <div class="default-heading">
         <div id="anchor_contact" class="title2">CONTACT</div>
         <div class="row">
@@ -59,6 +59,9 @@
             </form>
             <button class="btn btn-primary" id="BOUTON">Envoyer</button>
         </div>
+        <div>
+            <a class="js-scrollTo anchor" href="#anchor_menu"><img src="/images/return.png" alt="retour haut" width="50rem"></a>
+        </div>
     </div>
 
     <!--modal -->
@@ -66,7 +69,8 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header POPUP">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                aria-hidden="true">×</span></button>
                     <h4 class="modal-title"><i class="fa fa-check" aria-hidden="true"></i> Félicitations !</h4>
                 </div>
                 <div class="modal-body">
