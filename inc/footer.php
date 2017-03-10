@@ -5,10 +5,10 @@
 
     <div id="FOOTER-BLOCK2">
         <div id="FOOTER-LEGAL">
-            <ul>
-                <li><a href="./inc/mentions.php"><p>Mentions légales - </p></a></li>
-                <li><a href="./inc/conditions.php"><p>Conditions générales</p></a></li>
-            </ul>
+
+            <a href="./inc/mentions.php"><p>Mentions légales et conditions générales de vente - </p></a>
+
+
         </div>
 
         <div>

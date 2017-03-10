@@ -110,11 +110,19 @@ li {
 .navbar-nav {
   padding-right: 80px;
 }
+.navbar-default .navbar-nav>li>a:focus {
+  color: white;
+  font-size: 18px;
+}
 .navbar-default .navbar-nav>li>a:hover {
   color: white;
   font-size: 18px;
 }
 .navbar-default .navbar-nav>li>a:link {
+  color: white;
+  font-size: 18px;
+}
+.navbar-default .navbar-nav>li>a:visited {
   color: white;
   font-size: 18px;
 }
@@ -322,6 +330,7 @@ body {
   .navbar-nav > li > a {
     padding-top: 10px;
     padding-bottom: 10px;
+    color : white;
   }
   .navbar-nav > li > a:visited {
     padding-top: 10px;

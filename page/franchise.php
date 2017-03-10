@@ -21,7 +21,7 @@
     <div class="default-heading">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                <div class="title3">La Franchise Wild Restaurant</div>
+                <div class="title3">La Franchise Atypique Restaurant</div>
                 <div class="paragraphe">Le concept propose un large choix d'entrées, plats chaudset desserts
                     préparés
                     à la commande à partir d’une cinquantaine d’ingrédients frais, à consommer sur place, à

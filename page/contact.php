@@ -36,8 +36,8 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="exampleInputTown">Dans quelle ville souhaitez-vous devenir franchisé Wild
-                            Restaurant ?</label>
+                        <label for="exampleInputTown">Dans quelle ville souhaitez-vous devenir franchisé Restaurants
+                            atypiques ?</label>
                         <input type="tel" class="form-control saut" id="exampleInputTown"
                                placeholder="Nice / Saint Jean de Luz / Belle ile ?...">
                     </div>
