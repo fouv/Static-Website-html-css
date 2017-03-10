@@ -1,7 +1,6 @@
 <div id="anchor_franchise" class="default-heading">
     <div class="title2">DEVENIR FRANCHISE</div>
-    <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="paragraphegrey">
                 Vous rêvez d’ouvrir votre restaurant tout en maîtrisant votre investissement ? Vous n’avez pas
                 d’expérience préalable
@@ -55,6 +54,7 @@
             <a class="js-scrollTo anchor" href="#anchor_menu">^</a>
         </div>
     </div>
+    <div id="anchorcontact"></div>
 
 
 

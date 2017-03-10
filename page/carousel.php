@@ -33,4 +33,3 @@
         </a>
     </div>
 </div> <!--End carousel-->
-<!-- Home -->
