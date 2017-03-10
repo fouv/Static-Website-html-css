@@ -81,13 +81,13 @@ li {
   color: darkred;
   text-align: center;
 }
-
 .title2 {
+  text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
-  text-transform: uppercase;
   color: darkred;
   text-align: center;
+  padding: 40px 0 40px 0;
 }
 .full-wrapper {
   margin: 0 2%;
@@ -250,15 +250,6 @@ body {
   url('fonts/opensans-regular.woff'),
   url('fonts/opensans-regular.ttf'),
   url('fonts/opensans-regular.svg');
-}
-.title2 {
-  text-transform: uppercase;
-  font-size: 5rem;
-  font-weight: bold;
-  color: darkred;
-  text-align: center;
-  padding: 40px;
-
 }
 .title5{
   color: white;
