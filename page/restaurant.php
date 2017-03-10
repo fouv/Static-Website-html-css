@@ -199,6 +199,6 @@
         </div>
     </div>
     <div>
-        <a class="js-scrollTo anchor" href="#anchor_menu"><img src="/images/return.png" alt="retour haut" width="50rem"></a>
+        <a class="js-scrollTo anchor" href="#anchor_menu">^</a>
     </div>
 </div>

@@ -358,4 +358,28 @@ body {
 /*ANCHOR*/
 .anchor{
   float: right;
+-moz-box-shadow: 0px 2px 4px 0px black;
+-webkit-box-shadow: 0px 2px 4px 0px black;
+box-shadow: 0px 2px 4px 0px black;
+background-color: transparent;
+-moz-border-radius:42px;
+-webkit-border-radius:42px;
+border-radius:42px;
+border:1px solid black;
+display:inline-block;
+cursor:pointer;
+color:grey;
+font-family:Arial;
+font-size:20px;
+font-weight:bold;
+padding:16px 16px;
+text-decoration:none;
+text-shadow:0px 1px 7px black;
+}
+.anchor:hover {
+  background-color:transparent;
+}
+.anchor:active {
+  position:relative;
+  top:1px;
 }
