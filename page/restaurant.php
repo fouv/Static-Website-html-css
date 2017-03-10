@@ -126,12 +126,12 @@
                     <div class="panel-heading">
                         <div class="title4">
                             <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
-                               href="#collapseThree">
+                               href="#collapseOne">
                                 ORLEANS
                             </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
                         </div>
                     </div>
-                    <div id="collapseThree" class="panel-collapse collapse">
+                    <div id="collapseOne" class="panel-collapse collapse">
                         <div class="panel-body">
                             Le Lab’O <br>
                             1 Avenue du champ de Mars <br>
@@ -144,12 +144,12 @@
                     <div class="panel-heading">
                         <div class="title4">
                             <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
-                               href="#collapseThree">
+                               href="#collapseTwo">
                                 BORDEAUX
                             </a><i class="indicator glyphicon glyphicon-chevron-up pull-right"></i>
                         </div>
                     </div>
-                    <div id="collapseThree" class="panel-collapse collapse">
+                    <div id="collapseTwo" class="panel-collapse collapse">
                         <div class="panel-body">
                             15 Place Canteloup <br>
                             33800 Bordeaux <br>
@@ -200,3 +200,4 @@
         </div>
     </div>
 </div>
+<div id="anchorfranchise"></div>

@@ -1,3 +1,4 @@
+<div id="anchorconcept"></div>
 <div class="container home">
     <div class="default-heading">
         <div class="title2">CONCEPT</div>
@@ -37,3 +38,4 @@
         </div>
     </div>
 </div>
+<div id="anchorrestaurants"></div>

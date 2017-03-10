@@ -1,5 +1,5 @@
 <!--Navbar -->
-<div id="anchor_menu" class="row">
+<div  class="row">
     <nav class="navbar navbar-default navbar-static-top sticky-header">
         <div class="full-wrapper">
 
@@ -13,10 +13,10 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#anchor_concept">Concept</a></li>
-                    <li><a href="#anchor_restaurants">Nos restaurants</a></li>
-                    <li><a href="anchor_franchise">Devenir franchisé</a></li>
-                    <li><a href="#anchor contact">Contact</a></li>
+                    <li><a href="#anchorconcept">Concept</a></li>
+                    <li><a href="#anchorrestaurants">Nos restaurants</a></li>
+                    <li><a href="#anchorfranchise">Devenir franchisé</a></li>
+                    <li><a href="#anchorcontact">Contact</a></li>
                 </ul>
             </div>
         </div>
