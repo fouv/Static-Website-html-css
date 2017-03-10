@@ -1,5 +1,4 @@
-<div id="anchorconcept"></div>
-<div class="container home">
+<div id="anchor_concept" class="container home">
     <div class="default-heading">
         <div class="title2">CONCEPT</div>
         <div class="row text-center">
@@ -37,5 +36,7 @@
             </div>
         </div>
     </div>
+    <div>
+        <a class="js-scrollTo anchor" href="#anchor_menu"><img src="/images/return.png" alt="retour haut" width="50rem"></a>
+    </div>
 </div>
-<div id="anchorrestaurants"></div>

@@ -1,9 +1,9 @@
-<div class="container">
+<div id="anchor_contact" class="container">
     <div class="default-heading">
         <div id="anchor_contact" class="title2">CONTACT</div>
                <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                <form class="form-horizontal FORM" action="" method="post" role="form">
+                <form class="form-horizontal FORM">
                     <div class="form-group">
                         <label for="exampleInputCivility">Civilité</label>
                         <select class="form-control saut" id="exampleInputCivility">
@@ -54,9 +54,28 @@
                     <input type="file" id="exampleInputFile">
                     <p class="help-block">Cela peut etre un dossier de projet ou autre business plan.</p>
                 </div>
-                <button type="submit" class="btn btn-primary">Envoyer</button>
+
             </div>
             </form>
+            <button class="btn btn-primary" id="BOUTON">Envoyer</button>
+        </div>
+        <div>
+            <a class="js-scrollTo anchor" href="#anchor_menu"><img src="/images/return.png" alt="retour haut" width="50rem"></a>
+        </div>
+    </div>
 
+    <!--modal -->
+    <div id="MERCI" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header POPUP">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                aria-hidden="true">×</span></button>
+                    <h4 class="modal-title"><i class="fa fa-check" aria-hidden="true"></i> Félicitations !</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="text-center">Votre formulaire a été envoyé</p>
+                </div>
+            </div>
         </div>
     </div>
